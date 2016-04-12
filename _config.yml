@@ -1,0 +1,28 @@
+name: Ritchie
+favicon: null
+layout_spectrum: 0.4926551408134401
+typography_spectrum: 0.5753989068325609
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.48353259661234915
+  lightness: 0.033064914867281914
+  saturation: 0.03422369807958603
+  rhythmicContrast: 0.8190976050682366
+purpose: []
