@@ -1,6 +1,6 @@
-name: Ritchie
+name: Ritchie Construction Ltd
 favicon: null
-layout_spectrum: 0.4926551408134401
+layout_spectrum: 0
 typography_spectrum: 0.5753989068325609
 title: Ritchie Construction - General Contractor - Renovations - New Homes
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#484641'
+    - '#004080'
+    - '#000000'
+    - '#0000ff'
+    - '#550000'
   brandStrength: 0.48353259661234915
   lightness: 0.033064914867281914
   saturation: 0.03422369807958603
